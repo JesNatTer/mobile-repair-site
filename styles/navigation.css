@@ -1,0 +1,32 @@
+.navigation-bar {
+  background-color: #f26522;
+  display: flex;
+  padding: 10px 10%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links {
+  display: flex;
+  list-style-type: none;
+  padding: 10px 0;
+}
+
+.nav-links a {
+  color: white;
+  padding: 20px 13px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.mobile-menu {
+  display: none;
+}
+
+.search-icon {
+  color: white;
+}
+.cat-image {
+  width: 100%;
+}
